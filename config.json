@@ -1,0 +1,8 @@
+{
+  "api_key": "sk-",
+  "model": "gpt-5.2",
+  "max_output_tokens": 5000,
+  "chunk_size": 1500,
+  "output_directory": "outputs",
+  "log_level": "INFO"
+}
