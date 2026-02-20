@@ -1,5 +1,3 @@
-
-```markdown
 # 🧠 Themic  
 ### AI-Powered Thematic Analysis Engine (Desktop Application)
 
